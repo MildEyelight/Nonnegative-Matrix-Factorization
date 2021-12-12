@@ -6,10 +6,10 @@ And I began to read the related article about NMF and its variant Deep NMF.
 This Flie use to stores the code I have written while reading these articles about these NMF variants.
 The plan is as follows:
 ### PLAN
-1.NMF baseline
-2.Deep NMF(Multilayer NMF)
-3.Deep sparse NMF
-4.Deep orthogonal NMF
+1. NMF baseline
+2. Deep NMF(Multilayer NMF)
+3. Deep sparse NMF
+4. Deep orthogonal NMF
 
 NMF has a lot of application in Representation Learning, Clustering Algorithm.
 In representation learning, I will use image data to extract the feature of image set and also use graph data to do so. It's a good way to do dimension reduction.
