@@ -1,6 +1,6 @@
 ## Principle of NMF
 The object function of NMF is as follows:
-![nmf_object_function]()
+![nmf_object_function](https://github.com/MildEyelight/Nonnegative-Matrix-Factorization/blob/main/NMF%20baseline/Image%20database/nmf_object_function.png)
 
 ## Result of NMF on image 
 ![nmf_image_result](https://github.com/MildEyelight/Nonnegative-Matrix-Factorization/blob/main/NMF%20baseline/Image%20database/nmf_image_result.PNG)
