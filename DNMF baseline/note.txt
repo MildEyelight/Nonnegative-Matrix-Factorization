@@ -1,1 +1,3 @@
-
+This DNMF demonstration use two types of data:
+Ⅰ  Graph data from American Football college for a community detection mission.(Node = 115, Edge = 600+, Community_number = 12)
+Ⅱ Image data from fashionMNIST use for find part of object and image classification mission.
